@@ -1,7 +1,8 @@
 # Batch .zip and .rar extractors
 
-This couple of scripts allows you to extract multiple zip or rar files
-into new folders that inherit the same name of the original zip/rar file.
+This couple of scripts allows you to extract multiple zip or rar files into new folders that inherit the same name of the original zip/rar file.
+They saved me hours of work unzipping a large collection of compressed files.
+Hopefully they will help many others too.
 
 ## How To:
 - Copy the directory you have your zip/rar files in.
