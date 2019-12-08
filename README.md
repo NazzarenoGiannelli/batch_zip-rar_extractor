@@ -1,11 +1,11 @@
 # Batch .zip and .rar extractors
 
-###### These couple of scripts allow you to extract multiple zip or rar files
-into new folders that inherit the name from the original zip/rar file.
+These couple of scripts allow you to extract multiple zip or rar files
+into new folders that inherit the same name of the original zip/rar file.
 
 ## How To:
 - Copy the directory you have your zip/rar files in.
-- Launch **Batch Zip Extractor** or **Batch Rar Extractor** depending on the extension of the files you want to process.
+- Launch **Batch Zip Extractor.bat** or **Batch Rar Extractor.bat** depending on the extension of the files you want to process.
 - Paste the directory into the Power Shell window.
 - Enjoy seeing your files automatically extracted into folders that inherit the same name of the original compressed file.
 
