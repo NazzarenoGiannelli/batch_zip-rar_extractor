@@ -11,6 +11,8 @@ Hopefully they will help many others too.
 - Enjoy seeing your files automatically extracted into folders that inherit the same name of the original compressed file.
 - Repeat the operation into another folder or exit the program selecting the appropriate option.
 
+For ease of use you can create links of the .bat files and keep them in some handy place on your hard drive instead of always look for the files' folder you can safely archive somewhere else instead.
+
 ## Requirements:
 - 7zip installed (if you installed 7zip in a different location from the default one,
 you need to uptade its directory in the .ps1 files code)
