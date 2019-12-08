@@ -17,4 +17,5 @@ For ease of use you can create links of the .bat files and keep them in some han
 - 7zip installed (if you installed 7zip in a different location from the default one,
 you need to uptade its directory in the .ps1 files code)
 
+---
 For more about what I do you can visit my [personal website](https://www.nazzarenogiannelli.com/)
