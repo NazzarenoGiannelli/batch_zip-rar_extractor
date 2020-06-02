@@ -7,6 +7,10 @@ Hopefully it will help many others too :slightly_smiling_face:
 
 The script detects .zip and .rar files in the provided directory, so you don't have to worry about files of other formats present in the same folder.
 
+## Requirements:
+- 7zip installed (if you installed 7zip in a different location from the default one,
+you need to uptade its directory in the .ps1 files code)
+
 ## How To:
 - Copy the directory you have your zip/rar files in.
 - Launch **Run Batch_Zip-Rar_Extractor.bat**.
@@ -16,10 +20,6 @@ The script detects .zip and .rar files in the provided directory, so you don't h
 - Repeat the operation or exit the program selecting the appropriate option.
 
 For ease of use you can create a link of the .bat file and keep it in some handy place on your hard drive instead of always look for the files' folder you can safely archive somewhere else instead.
-
-## Requirements:
-- 7zip installed (if you installed 7zip in a different location from the default one,
-you need to uptade its directory in the .ps1 files code)
 
 ---
 ☕🤎 If you find the content useful, you could get me a coffee at https://www.buymeacoffee.com/nazzareno
