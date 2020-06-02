@@ -22,4 +22,8 @@ For ease of use you can create a link of the .bat file and keep it in some handy
 you need to uptade its directory in the .ps1 files code)
 
 ---
-:globe_with_meridians: For more about what I do you can visit my [personal website](https://www.nazzarenogiannelli.com/)
+☕🤎 If you find the content useful, you could get me a coffee at https://www.buymeacoffee.com/nazzareno
+
+🙏 For more, you can follow me on <a href="https://twitter.com/nazzagnl">Twitter</a>, <a href="http://www.youtube.com/c/NazzarenoGiannelliCG">Youtube</a>, and <a href="https://www.instagram.com/nazzarenogiannelli">Instagram</a>
+
+:globe_with_meridians: For more about what I do, you can visit my [personal website](https://www.nazzarenogiannelli.com/)
